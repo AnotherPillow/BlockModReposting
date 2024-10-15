@@ -428,7 +428,6 @@
 ||modcraft.biz^$all
 ||modcraft.su^$all
 ||moddingames.wordpress.com^$all
-||moddrop.com^$all
 ||moddrops.weebly.com^$all
 ||modfast.ru^$all
 ||modminecraft.com^$all
